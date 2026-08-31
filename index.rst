@@ -12,6 +12,7 @@ HOPE
 
    PhyDept_IITB/setup
    git_comm/git_help
+   My_notes/notes
 
 Welcome to my documentation site.
 
