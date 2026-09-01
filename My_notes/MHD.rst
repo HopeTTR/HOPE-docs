@@ -59,6 +59,7 @@ Pure poloidal field -
 
 These fields lines travel through the stellar interior(x-z and y-z planes).
 Note : 3- the field external to the star is primarily poloidal.
+
 .. image:: images/pol_tor_field.jpg
    :width: 500px
    :align: center

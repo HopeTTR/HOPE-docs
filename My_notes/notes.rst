@@ -6,6 +6,7 @@ My practice notes
 
    MHD
    appendix
+   stellar_Oscillation
 
 Suppose a magnetized star satisfies the MHD force-balance equation,
 
