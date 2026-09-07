@@ -58,7 +58,6 @@ Pure poloidal field -
    \boxed{\mathbf{B}_\phi = 0}
 
 These fields lines travel through the stellar interior(x-z and y-z planes).
-Note : 3- the field external to the star is primarily poloidal.
 
 .. image:: images/pol_tor_field.jpg
    :width: 500px
@@ -99,6 +98,14 @@ the strength and orientation of a magnetic source. Its direction determines
 the orientation of the associated magnetic field and how the magnetic source
 tends to align in an external magnetic field.
 
+Here is the dipole magnetic field from my simulation. All faces to visualise the stucture.
+
+.. image:: images/magwd_hdf5_plt_cnt_0000_density_magstream_tempcontour_3panel.png
+   :width: 500px
+   :align: center
+   :alt: Simulated Magnetic field geometry
+
+
 Why Dipole?
 -----------
 
@@ -109,3 +116,16 @@ For an ideal magnetic dipole, magnetic moment along z,
 .. math::
 
    \boxed{\mathbf{m} = m \hat{\mathbf{z}}}
+
+For this its magnetic field
+
+an axisymmetric poloidal magnetic field is produced primarily by toroidal electric currents, meaning currents flowing around the symmetry axis.
+A purely poloidal field is generally not dynamically stable as a long-lived stellar magnetic configuration.
+
+The instability is particularly associated with regions around the neutral line, where the poloidal magnetic field becomes zero inside the star.
+
+Perturbations near such regions can lower the magnetic energy and rearrange both matter and field, causing the initially pure topology to evolve.
+
+Density, temperature, pressure etc. can be initialized first and the magnetic field added afterward without violating
+
+∇⋅B=0.
