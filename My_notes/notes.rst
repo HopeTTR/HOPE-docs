@@ -32,3 +32,6 @@ We therefore call this configuration an **equilibrium**.
 If established magnetic configuration inside a star produces restoring forces if we introduce a tiny plasma displacement, that oppose the displacement, then the configuration is stable. Otherwise, it is unstable.
 For stellar magnetic instabilities, this growth can occur on roughly an Alfvén timescale, which can be extremely short compared with the evolutionary lifetime of the star.
 So if a magnetic structure disrupts itself after only a few \(t_A\), it is not a credible explanation for a magnetic field supposed to survive for millions or billions of years.
+
+The importance of how centrally concentrated the magnetic energy is has been found to affect both stellar magnetic equilibria and their eventual topology.
+At fixed \(B_0\), reducing \(r_0,B)\ means more centrally concentrated makes the strong-field region smaller 
