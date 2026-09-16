@@ -48,6 +48,18 @@ Boundary Conditions
 
 Another subsection.
 
+Sphinx Documentation
+--------------------
+
+This is a section on Sphinx documentation.
+
+.. code-block:: powershell
+
+   cd C:\Users\ADMIN\HOPE-docs
+   conda activate hope_docs
+   .\make.bat html
+   start _build\html\index.html
+
 Indices and tables
 ==================
 
